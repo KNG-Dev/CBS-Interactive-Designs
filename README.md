@@ -12,5 +12,5 @@ Added a Trailer Section
 * Having a review section can also help increase engagement of the app. Everytime when I watch trailers on Youtube, I always check the comments for reactions. 
 
 
-<img src="AppleWalletAnimation.gif" width="200" />        <img src="FacebookHome.gif" width="200" />
+<img src="CBSiEpisode.png" width="200" />        <img src="CBSiTrailer.png" width="200" />
 
