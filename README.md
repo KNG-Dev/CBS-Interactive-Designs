@@ -10,7 +10,6 @@ Replaced "About" section with "Trailer" Section
 * Reasoning behind this idea was that many times when I'm looking for a new show to binge, a trailer gives me a better sense of the quality of the show.
 * Having a review section can also help increase engagement of the app. Everytime when I watch trailers on Youtube, I always check the comments for reactions.
 
-These are just some ideas I had, let me know what you think. 
 
 
 <img src="CBSiEpisode.png" width="200" />        <img src="CBSiTrailer.png" width="200" />
